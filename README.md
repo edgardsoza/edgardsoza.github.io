@@ -51,7 +51,7 @@ This is my first portfolio and I am finishing my mobile version with the contact
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://edgardsoza.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,7 +113,7 @@ Open the project by launching the Live Server plugging in visual studio code.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the page of the project at https://www.portfolio.com
+Feel free to check the page of the project at https://edgardsoza.github.io/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,7 +122,7 @@ Feel free to check the page of the project at https://www.portfolio.com
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project give a like on the following page:
-https://www.portfolio.com.
+ https://edgardsoza.github.io/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
