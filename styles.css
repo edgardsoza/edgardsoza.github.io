@@ -741,7 +741,6 @@ form li + li {
     gap: 1rem;
     width: 100%;
     border-radius: 8px;
-    background-color: red;
   }
 
   .project1,
