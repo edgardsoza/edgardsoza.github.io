@@ -741,7 +741,7 @@ form li + li {
     gap: 1rem;
     width: 100%;
     border-radius: 8px;
-    min-height: 100vh;
+    background-color: red;
   }
 
   .project1,
@@ -765,7 +765,7 @@ form li + li {
     text-align: center;
     align-items: center;
     width: 100%;
-    margin-top: 1200px;
+    margin-top: 500px;
     background: url(images/aboutme1desktop.png) left top no-repeat, url(images/aboutme2desktop.png) right top no-repeat;
   }
 
@@ -874,7 +874,7 @@ form li + li {
     text-align: center;
     margin-bottom: 50px;
     justify-content: center;
-    background: url(images/contactparagraphdesktop.png) bottom no-repeat;
+    background: url(images/contactparagraphdesktop.png) right bottom no-repeat;
   }
 
   .sendamessage {
