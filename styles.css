@@ -288,6 +288,7 @@ form li + li {
   width: 327px;
   margin-left: 24px;
   margin-right: 24px;
+  background-color: red;
   height: 333px;
   gap: 30px;
   background: url(images/aboutmemobile1.png) bottom left no-repeat;
