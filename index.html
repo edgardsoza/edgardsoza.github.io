@@ -4,203 +4,141 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="styles.css" />
-    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <script src="https://kit.fontawesome.com/b33cf67da8.js" crossorigin="anonymous"></script>
+    <script src="./main.js" defer></script>
+    <script src="./profiles.js" defer></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/b33cf67da8.js" crossorigin="anonymous"></script>    
-    <title>My First Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    <title>Gen Mex Concert 2023 Amazon Originals</title>
 </head>
 <body>
-        <header class="welcome-container">
-            <a class="welcome">Welcome</a>
-            <a class="menu-icon"><i class="ri-menu-line"></i></a>
-        </header>
-        <nav class="menu-web">
-            <ul class="web-options">
-                <li><a class="portfolio">Portfolio</a></li>
-                <li><a class="about-web"></a>About</li>
-                <li><a class="contact-web"></a>Contact</li>
-            </ul>
+    <div class="social-media-desktop display-none">
+        <div class="first-container-desktop">
+        <i class="fa-brands fa-facebook-f"></i>
+        <i class="fa-brands fa-twitter"></i>
+        <p>English</p>
+        <p>My Page</p>
+        <p>Logout</p>
+        </div>
+    </div>
+    <div class="nav-bar display-none">
+        <div class="nav-bar-container">
+        <a href="./index.html" class="logo"><img src="images/genmexlogo.jpg" alt="Gen Mex Concert Logo"></a>
+        <nav class="nav-menu">
+        <ul class="nav-options">
+            <li class="nav-link"><a class="link-menu" href="./about.html">About</a></li>
+            <li class="nav-link"><a class="link-menu" href="#">Program</a></li>
+            <li class="nav-link"><a class="link-menu" href="#">Join</a></li>
+            <li class="nav-link"><a class="link-menu" href="#">Sponsor</a></li>
+            <li class="nav-link"><a class="link-menu" href="#">News</a></li>
+            <li class="nav-link"><a id="gmcampaign" class="link-menu" href="#">GM Campaign</a></li>
+        </ul>
         </nav>
-        <section class="greetingsandsocial">
-            <h2 class="intro1">Hey there. I'm Edgard</h2>
-            <h2 class="intro2">I'm a software developer</h2>
-            <p class="intromessage"> I can help you build a product , feature or website. 
-            Look through some of my work and experience! 
-            If you like what you see and have a project you need coded, 
-            don't hestiate to contact me.</p>
-            <ul class="social-container">
-                <li><a class="twitterlogo" href="https://twitter.com/soza_edgard"><i class="fa-brands fa-twitter"></i></a></li>
-                <li><a class="linkedinlogo" href="https://www.linkedin.com/in/edgard-soza-sobalvarro/"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                <li><a class="mlogo" href="#"><i class="fa-brands fa-m"></i></a></li>
-                <li><a class="githublogo" href="https://github.com/edgardsoza"><i class="fa-brands fa-github"></i></a></li>
-                <li><a class="angellist logo" href="#"><i class="fa-brands fa-angellist"></i></a></li>
+        </div>
+    </div>
+    <header class="principal-info">
+        <div class="mobile-bar display-none">
+            <nav class="mobile-navmenu">
+            <ul class="mobile-nav-options">
+                <li class="mobile-nav-link"><a class="link-menu" href="./about.html">About</a></li>
+                <li class="mobile-nav-link"><a class="link-menu" href="#">Program</a></li>
+                <li class="mobile-nav-link"><a class="link-menu" href="#">Join</a></li>
+                <li class="mobile-nav-link"><a class="link-menu" href="#">Sponsor</a></li>
+                <li class="mobile-nav-link"><a class="link-menu" href="#">News</a></li>
+                <li class="mobile-nav-link"><a class="link-menu" href="#">GM Campaign</a></li>
+                <li class="mobile-nav-link"><i class="fa-solid fa-xmark"></i></li>
             </ul>
-            <ul class="desktop-social-container">
-                <li><a class="githublogo" href="https://github.com/edgardsoza"><i class="fa-brands fa-github"></i></a></li>
-                <li><a class="linkedinlogo" href="https://www.linkedin.com/in/edgard-soza-sobalvarro/"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                <li><a class="angellistlogo" href="#"><i class="fa-brands fa-angellist"></i></a></li>
-                <li><a class="twitterlogo" href="https://twitter.com/soza_edgard"><i class="fa-brands fa-twitter"></i></a></li>
-                <li><a class="mlogo" href="#"><i class="fa-brands fa-m"></i></a></li>
-            </ul>
-            <img class="disabled" src="images/disabled.png" alt="">
-        </section>
-    <section class="recent">
-        <h1 class="recent-works">My Recent Works</h1>
-        <div><i id="separator" class="fa-solid fa-horizontal-rule"></i></div>
-        <div class="project-container">
-            <div class="project1">
-                    <img class="projectimages" src="images/project1.jpg" alt="">
-                    <div class="project-content">
-                        <h4 class="text-title">Multi-Post Stories Gain+Glory</h4>
-                        <ul class="technologies">
-                            <li class="Ruby">Ruby on Rails</li>
-                            <li class="css">css</li>
-                            <li class="JavaScript">JavaScript</li>
-                            <li class="html">html</li>
-                        </ul>
-                        <button class="projectbutton" type="action">See Project</button>
-                    </div>
+            </nav>
+        </div>
+        <div class="main-content">
+        <i id="hamburger" class="fa-solid fa-bars fa-2x"></i>
+        <h3 class="hello-concert">"Hello! Welcome Gen Mex"</h1>
+        <h1 class="concert-title"><b>GEN MEX CONCERT<br>AMAZON ORIGINALS<br> 2023</b></h1>
+        <p class="concert-paragraph"> A joyful event at the NeueHouse Hollywood.
+        The event brings together a new generation of mexican fresh stars who will delight 
+        the audience with some of their best hits.
+        </p>
+        <p class="date-and-time">2023.03.03(FRI) ~ 05(SUN)</p>
+        <p class="place"><b>@NeueHouse Hollywood, Columbia Square, USA</b></p>
+        </div>
+    </header>
+    <main class="main-program">
+        <h3 class="main-program-title">Main Program</h3>
+        <hr class="breakline">
+        <div class="main-container-cards">
+        <div class="main-container">
+            <div class="main-container-icon">
+                <i class="fa-solid fa-microphone fa-5x"></i>               
             </div>
-            <div class="project2">
-                <img class="projectimages" src="images/project1.jpg" alt="">
-                    <div class="project-content">
-                        <h4 class="text-title">Multi-Post Stories Gain+Glory</h4>
-                        <ul class="technologies">
-                            <li class="Ruby">Ruby on Rails</li>
-                            <li class="css">css</li>
-                            <li class="JavaScript">JavaScript</li>
-                            <li class="html">html</li>
-                        </ul>
-                        <button class="projectbutton" type="action">See Project</button>
-                    </div>
+            <h3 class="title-main-container">Opening</h3>
+            <p class="description-main-container">The youngest singers from Mexico will start this night with their awesome talent</p>
+        </div>
+        <div class="main-container">
+            <div class="main-container-icon">
+                <i class="fa-solid fa-user fa-5x"></i>            
             </div>
-            <div class="project3">
-                <img class="projectimages" src="images/project1.jpg" alt="">
-                    <div class="project-content">
-                        <h4 class="text-title">Multi-Post Stories Gain+Glory</h4>
-                        <ul class="technologies">
-                            <li class="Ruby">Ruby on Rails</li>
-                            <li class="css">css</li>
-                            <li class="JavaScript">JavaScript</li>
-                            <li class="html">html</li>
-                        </ul>
-                        <button class="projectbutton" type="action">See Project</button>
-                    </div>
+            <h3 class="title-main-container">Main Artists</h3>
+            <p class="description-main-container">Three out of our main artists for today will make us enjoy for 2 hours of their most popular songs</p>
+        </div>
+        <div class="main-container">
+            <div class="main-container-icon">
+                <i class="fa-solid fa-bacon fa-5x"></i>
             </div>
-            <div class="project4">
-                <img class="projectimages" src="images/project1.jpg" alt="">
-                    <div class="project-content">
-                        <h4 class="text-title">Multi-Post Stories Gain+Glory</h4>
-                        <ul class="technologies">
-                            <li class="Ruby">Ruby on Rails</li>
-                            <li class="css">css</li>
-                            <li class="JavaScript">JavaScript</li>
-                            <li class="html">html</li>
-                        </ul>
-                        <button class="projectbutton" type="action">See Project</button>
-                    </div>
+            <h3 class="title-main-container">Break</h3>
+            <p class="description-main-container">In this time you will enjoy with your friends while listening to diverse music, courtesy of the DJ. Let's enjoy</p>
+        </div>
+        <div class="main-container">
+            <div class="main-container-icon">
+                <i class="fa-solid fa-microphone fa-5x"></i>               
             </div>
-            <div class="project5">
-                <img class="projectimages" src="images/project1.jpg" alt="">
-                    <div class="project-content">
-                        <h4 class="text-title">Multi-Post Stories Gain+Glory</h4>
-                        <ul class="technologies">
-                            <li class="Ruby">Ruby on Rails</li>
-                            <li class="css">css</li>
-                            <li class="JavaScript">JavaScript</li>
-                            <li class="html">html</li>
-                        </ul>
-                        <button class="projectbutton" type="action">See Project</button>
-                    </div>
+            <h3 class="title-main-container">Opening</h3>
+            <p class="description-main-container">Another group of the youngest singers from Mexico will re-start this night with their awesome talent</p>
+        </div>
+        <div class="main-container">
+            <div class="main-container-icon">
+                <i class="fa-solid fa-user fa-5x"></i>            
             </div>
-            <div class="project6">
-                <img class="projectimages" src="images/project1.jpg" alt="">
-                    <div class="project-content">
-                        <h4 class="text-title">Multi-Post Stories Gain+Glory</h4>
-                        <ul class="technologies">
-                            <li class="Ruby">Ruby on Rails</li>
-                            <li class="css">css</li>
-                            <li class="JavaScript">JavaScript</li>
-                            <li class="html">html</li>
-                        </ul>
-                        <button class="projectbutton" type="action">See Project</button>
-                    </div>
-            </div>
+            <h3 class="title-main-container">Closing</h3>
+            <p class="description-main-container">The last main artists for today will make us enjoy for 2 hours of their most popular songs. Let's close this night!!</p>
+        </div>
+        </div>
+        <a class="see-more display-none" href="#">SEE THE WHOLE PROGRAM</a>
+        <div class="join-link">
+            <p>Join us in this awesome Concert</p>
+        </div>
+    </main>
+    <section class="featured-speakers">
+        <h2 class="speakers">Featured Speakers</h2>
+        <hr class="breakline">
+        <div id="speakers-container" class="speakers-container">
+        </div>
+        <div class="more-button">
+            <p>MORE</p>
+            <span><i class="fa-solid fa-chevron-down"></i></span>
         </div>
     </section>
-    <section class="about">
-        <div class="aboutme">
-            <h1 class="titleaboutme">About me</h1>
-            <p class="aboutmeparagraph"> I can help you build a product , feature or website Look through some of my work and experience! If you like what you see and have a project you need coded, 
-            don't hestiate to contact me.</p>
-            <button class="projectbuttonresume" type="action">Get My Resume</button>
-        </div>
-    <section class="after-resume">
-        <div class="languages">
-            <img class="iconlanguages" src="images/icon-languages.png" alt="">
-            <h2 class="titlelanguages">Languages</h2>
-            <ul class="languagestechs">
-                <li class="Ruby">Ruby</li>
-                <li class="css">css</li>
-                <li class="JavaScript">JavaScript</li>
-                <li class="html">html</li>
-            </ul>
-        </div>
-        <div class="frameworks">
-            <img class="preferredframeworks" src="images/icon-frameworks.png" alt="">
-            <h2 class="titleframeworks">Frameworks</h2>
-            <ul class="techframeworks">
-                <li class="Bootstrap">Bootstrap</li>
-                <li class="Ruby-on-Rails">Ruby on Rails</li>
-                <li class="RSpec">RSpec</li>
-                <li class="Capybara">Capybara</li>
-                <li class="Selenium">Selenium</li>
-            </ul>
-        </div>
-        <div class="skills">
-            <img class="myskills" src="images/icon-skills.png" alt="">
-            <h2 class="titleekills">Skills</h2>
-            <ul class="typeofSkills">
-                <li class="Codekit">Codekit</li>
-                <li class="GitHub">GitHub</li>
-                <li class="Codepen">Codepen</li>
-                <li class="Gitlab">Gitlab</li>
-                <li class="Terminal">Terminal</li>
-            </ul>
+    <section class="partners display-none">
+        <h3 class="partner-title">Partner</h3>
+        <hr class="breakline">
+        <div class="partner-container">
+            <img src="images/mozilla-partner.jpg" alt="Mozilla logo" class="partner-image">
+            <img src="images/google-partner.jpg" alt="Google logo" class="partner-image">
+            <img src="images/naver-partner.jpg" alt="Naver logo" class="partner-image">
+            <img src="images/daumkakao-partner.jpg" alt="Daumkakao logo" class="partner-image">
+            <img id="airbnb" src="images/airbnb-partner.jpg" alt="Airbnb logo" class="partner-image">
         </div>
     </section>
-    <section class="contactandform">
-            <p class="contactparagraph">I'm always interested in hearing about new projects,
-                 so if you'd like to chat please get in touch.
-            </p>
-            <form class="contactform" action="https://formspree.io/f/xeqwoznl" method="post">
-                <ul class="sendamessage">
-                    <li><input type="text" id="name" name="full_name" placeholder="Full Name" maxlength="30" required/></li>
-                    <li><input type="email" id="email" name="contact_email" placeholder="Email address" required/></li>
-                    <li><textarea id="message" name="contact_message" placeholder="Typing Something" maxlength="500" required></textarea>
-                </ul>
-                <button class="get-in-button" type="submit">Get in touch</button>
-    </section>
-            <ul class="mobile-social-container">
-                <li><a class="twitterlogo" href="https://twitter.com/soza_edgard"><i class="fa-brands fa-twitter"></i></a></li>
-                <li><a class="linkedinlogo" href="https://www.linkedin.com/in/edgard-soza-sobalvarro/"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                <li><a class="mlogo" href="#"><i class="fa-brands fa-m"></i></a></li>
-                <li><a class="githublogo" href="https://github.com/edgardsoza"><i class="fa-brands fa-github"></i></a></li>
-                <li><a class="angellist logo" href="#"><i class="fa-brands fa-angellist"></i></a></li>
-            </ul>
-            <ul class="about-social-container">
-                <li><a class="githublogo" href="https://github.com/edgardsoza"><i class="fa-brands fa-github"></i></a></li>
-                <li><a class="linkedinlogo" href="https://www.linkedin.com/in/edgard-soza-sobalvarro/"><i class="fa-brands fa-linkedin-in"></i></a></li>
-                <li><a class="angellistlogo" href="#"><i class="fa-brands fa-angellist"></i></a></li>
-                <li><a class="twitterlogo" href="https://twitter.com/soza_edgard"><i class="fa-brands fa-twitter"></i></a></li>
-                <li><a class="mlogo" href="#"><i class="fa-brands fa-m"></i></a></li>
-            </ul>
-            <h4 class="my-email">jose.sozasobalvarro@gmail.com</h4>
-            <a id="enddash"><i class="fa-solid fa-dash"></i></a>
+    <footer class="footer-project display-none">
+        <div class="footer-container-desktop">
+        <div class="footer-image-container">
+        <img src="images/genmexlogo.jpg" alt="Footer logo" class="footer-logo">
         </div>
-    </section>
+        <div>
+            <p class="license">Gen Mex Concert 2023 Amazon Originals</p>
+            <p class="license">Some Rights Reserved</p>
+        </div>
+    </div>
+    </footer>
 </body>
 </html>

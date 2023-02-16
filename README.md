@@ -1,4 +1,4 @@
-<a name="readme-top">My first Portfolio</a>
+<a name="readme-top">Concert page - Amazon Originals Gen Mex</a>
 
 # 📗 Table of Contents
 
@@ -24,26 +24,26 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My first portfolio <a name="about-project"></a>
+# 📖 Concert page - Amazon Originals Gen Mex <a name="about-project"></a>
 
-This is my first portfolio and I am finishing my mobile version with the contact form at the end. 
+This page would work as a base to have people purchasing their tickets to this original event by Amazon. 
 
-## 🛠 Built With <a name="built-with">HTML and CSS</a>
+## 🛠 Built With <a name="built-with">HTML, CSS, and JS</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Virtual Studio Code</summary>
+  <summary>Visual Studio Code</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML and CSS</a></li>
+    <li><a href="[https://reactjs.org/](https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/)">HTML, CSS, and JS</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- Recent works section. 
-- Technologies added.
--  Contact form added and functional.
+- Mobile menu button. 
+- Online deployment. 
+- Artists resume created with JS.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +66,6 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 Installation of Git
-Installation of NPM
 A working browser
 Internet connection
 A code editor like Visual Studio Code
@@ -75,13 +74,13 @@ Installation of Live Server plugging in Visual Studio Code
 ### Setup
 
 Clone this repository to your desired folder:
-https://github.com/edgardsoza/Portfolio-setup-and-mobile-first
+https://github.com/edgardsoza/capstone-Project
 
 ### Install
 
 Install this project with:
 
-https://github.com/edgardsoza/Portfolio-setup-and-mobile-first
+https://github.com/edgardsoza/capstone-Project
 
 ### Usage
 
@@ -100,9 +99,9 @@ Open the project by launching the Live Server plugging in visual studio code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features">Completed portfolio</a>
+## 🔭 Future Features <a name="future-features">Tickets purchase</a>
 
-- A final and working buttons will be added in the future. 
+- A final section will be added, so that users can make purchases in the page.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +130,7 @@ If you like this project give a like on the following page:
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank my family and everyone who helped on this project.
+This web page has been created using a Cindy Shin design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,7 +144,10 @@ I would like to thank my family and everyone who helped on this project.
 
 - How long did it take this?
 
-  - It took like 2 hours, contact form was easier than expected. 
+  - It took like 15 hours, usually the beginning of the project is the hardest. 
+
+- What is the project about?
+  - See my project information here: https://www.loom.com/share/374cd11aa5e94c42bc8fd69f2d559e30.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
