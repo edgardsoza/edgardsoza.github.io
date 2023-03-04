@@ -1,11 +1,18 @@
-<a name="readme-top">Concert page - Amazon Originals Gen Mex</a>
+<a name="readme-top"></a>
+
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <br/>
+</div>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-  - [Tech Stack](#tech-stack)
-   - [Key Features](#key-features)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -24,26 +31,31 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Concert page - Amazon Originals Gen Mex <a name="about-project"></a>
+# 📖 To Do List<a name="about-project"></a>
 
-This page would work as a base to have people purchasing their tickets to this original event by Amazon. 
+This current project was designed to implement a to do list and work with JavaScript and webpack.
 
-## 🛠 Built With <a name="built-with">HTML, CSS, and JS</a>
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Visual Studio Code</summary>
+  <summary>Client</summary>
   <ul>
-    <li><a href="[https://reactjs.org/](https://www.freecodecamp.org/news/html-css-and-javascript-explained-for-beginners/)">HTML, CSS, and JS</a></li>
+    <li><a>HTML</a></li>
+    <li><a>CSS</a></li>
+    <li><a>JavaScript</a></li>
+    <li><a>Webpack</a></li>
   </ul>
 </details>
 
+<!-- 
+s -->
+
 ### Key Features <a name="key-features"></a>
 
-- Mobile menu button. 
-- Online deployment. 
-- Artists resume created with JS.
+- To do list with for. 
+- Style with CSS imported to js.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -51,7 +63,7 @@ This page would work as a base to have people purchasing their tickets to this o
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://edgardsoza.github.io/)
+- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,22 +77,17 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Installation of Git
-A working browser
-Internet connection
-A code editor like Visual Studio Code
-Installation of Live Server plugging in Visual Studio Code
+Installation of Git Installation of NPM A working browser Internet connection A code editor like Visual Studio Code Installation of Live Server plugging in Visual Studio Code
 
 ### Setup
 
-Clone this repository to your desired folder:
-https://github.com/edgardsoza/capstone-Project
+Clone this repository to your desired folder: https://github.com/edgardsoza/to-do-list.
 
 ### Install
 
 Install this project with:
 
-https://github.com/edgardsoza/capstone-Project
+Clone this repository to your desired folder: https://github.com/edgardsoza/to-do-list
 
 ### Usage
 
@@ -88,31 +95,53 @@ To run the project, execute the following command:
 
 Open the project by launching the Live Server plugging in visual studio code.
 
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+github.io.com
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
 ## 👥 Authors <a name="authors">Edgard Soza</a>
 
-
-👤 **Edgard Soza**
+👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/edgardsoza)
 - Twitter: [@twitterhandle](https://twitter.com/soza_edgard)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/edgard-soza-sobalvarro/)
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- Adding and Removing tasks. 
+- Editing tasks.
+- Saving changes to local storage. 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features">Tickets purchase</a>
-
-- A final section will be added, so that users can make purchases in the page.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing">Portfolio Project</a>
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the page of the project at https://edgardsoza.github.io/
+Feel free to check the github.page
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,8 +149,7 @@ Feel free to check the page of the project at https://edgardsoza.github.io/
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give a like on the following page:
- https://edgardsoza.github.io/
+If you like this project, please invite a coffe at...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,31 +157,13 @@ If you like this project give a like on the following page:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-This web page has been created using a Cindy Shin design.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-- How do I use it?
-
-  - Feel free to download the code in the github repository given by using the main branch above and change it as you want it in another branch.
-
-- How long did it take this?
-
-  - It took like 15 hours, usually the beginning of the project is the hardest. 
-
-- What is the project about?
-  - See my project information here: https://www.loom.com/share/374cd11aa5e94c42bc8fd69f2d559e30.
+I would like to thank Microverse for this opportunity. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## 📝 <a name="license">MIT License</a>
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
