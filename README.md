@@ -1,18 +1,11 @@
-<a name="readme-top"></a>
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <br/>
-</div>
-
-<!-- TABLE OF CONTENTS -->
+<a name="readme-top">My first Portfolio</a>
 
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
+  - [Tech Stack](#tech-stack)
+   - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -31,31 +24,26 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 To Do List<a name="about-project"></a>
+# 📖 My first portfolio <a name="about-project"></a>
 
-This current project was designed to implement a to do list and work with JavaScript and webpack.
+This is my first portfolio and I am finishing my mobile version with the contact form at the end. 
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">HTML and CSS</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Virtual Studio Code</summary>
   <ul>
-    <li><a>HTML</a></li>
-    <li><a>CSS</a></li>
-    <li><a>JavaScript</a></li>
-    <li><a>Webpack</a></li>
+    <li><a href="https://reactjs.org/">HTML and CSS</a></li>
   </ul>
 </details>
 
-<!-- 
-s -->
-
 ### Key Features <a name="key-features"></a>
 
-- To do list with for. 
-- Style with CSS imported to js.
+- Recent works section. 
+- Technologies added.
+-  Contact form added and functional.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -63,7 +51,7 @@ s -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://edgardsoza.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,17 +65,23 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Installation of Git Installation of NPM A working browser Internet connection A code editor like Visual Studio Code Installation of Live Server plugging in Visual Studio Code
+Installation of Git
+Installation of NPM
+A working browser
+Internet connection
+A code editor like Visual Studio Code
+Installation of Live Server plugging in Visual Studio Code
 
 ### Setup
 
-Clone this repository to your desired folder: https://github.com/edgardsoza/to-do-list.
+Clone this repository to your desired folder:
+https://github.com/edgardsoza/Portfolio-finish-mobile-version
 
 ### Install
 
 Install this project with:
 
-Clone this repository to your desired folder: https://github.com/edgardsoza/to-do-list
+https://github.com/edgardsoza/Portfolio-finish-mobile-version
 
 ### Usage
 
@@ -95,53 +89,31 @@ To run the project, execute the following command:
 
 Open the project by launching the Live Server plugging in visual studio code.
 
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-github.io.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors">Edgard Soza</a>
 
-👤 **Author1**
+
+👤 **Edgard Soza**
 
 - GitHub: [@githubhandle](https://github.com/edgardsoza)
 - Twitter: [@twitterhandle](https://twitter.com/soza_edgard)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/edgard-soza-sobalvarro/)
 
-<!-- FUTURE FEATURES -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future Features <a name="future-features">Completed portfolio</a>
 
-- Adding and Removing tasks. 
-- Editing tasks.
-- Saving changes to local storage. 
+- A final and working buttons will be added in the future. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing <a name="contributing">Portfolio Project</a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the github.page
+Feel free to check the page of the project at https://edgardsoza.github.io/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,7 +121,8 @@ Feel free to check the github.page
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project, please invite a coffe at...
+If you like this project give a like on the following page:
+ https://edgardsoza.github.io/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,13 +130,31 @@ If you like this project, please invite a coffe at...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for this opportunity. 
+
+I would like to thank my family and everyone who helped on this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+- How do I use it?
+
+  - Feel free to download the code in the github repository given by using the main branch above and change it as you want it in another branch.
+
+- How long did it take this?
+
+  - It took like 2 hours, contact form was easier than expected. 
+
+- What is the project about?
+  - See my project information here: https://www.loom.com/share/43edb4a0a24747eebffd30bfbc436ca3.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 <a name="license">MIT License</a>
 
 This project is [MIT](./LICENSE) licensed.
 
