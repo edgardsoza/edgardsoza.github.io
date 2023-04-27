@@ -1,161 +1,70 @@
-<a name="readme-top">My first Portfolio</a>
+# Getting Started with Create React App
 
-# 📗 Table of Contents
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-  - [Tech Stack](#tech-stack)
-   - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+## Available Scripts
 
-<!-- PROJECT DESCRIPTION -->
+In the project directory, you can run:
 
-# 📖 My first portfolio <a name="about-project"></a>
+### `npm start`
 
-This is my first portfolio and I am finishing my mobile version with the contact form at the end. 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 🛠 Built With <a name="built-with">HTML and CSS</a>
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Tech Stack <a name="tech-stack"></a>
+### `npm test`
 
-<details>
-  <summary>Virtual Studio Code</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">HTML and CSS</a></li>
-  </ul>
-</details>
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Key Features <a name="key-features"></a>
+### `npm run build`
 
-- Recent works section. 
-- Technologies added.
--  Contact form added and functional.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-<!-- LIVE DEMO -->
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## 🚀 Live Demo <a name="live-demo"></a>
+### `npm run eject`
 
-- [Live Demo Link](https://edgardsoza.github.io/)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-<!-- GETTING STARTED -->
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## 💻 Getting Started <a name="getting-started"></a>
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-To get a local copy up and running, follow these steps.
+## Learn More
 
-### Prerequisites
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-In order to run this project you need:
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Installation of Git
-Installation of NPM
-A working browser
-Internet connection
-A code editor like Visual Studio Code
-Installation of Live Server plugging in Visual Studio Code
+### Code Splitting
 
-### Setup
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Clone this repository to your desired folder:
-https://github.com/edgardsoza/Portfolio-finish-mobile-version
+### Analyzing the Bundle Size
 
-### Install
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-Install this project with:
+### Making a Progressive Web App
 
-https://github.com/edgardsoza/Portfolio-finish-mobile-version
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Usage
+### Advanced Configuration
 
-To run the project, execute the following command:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-Open the project by launching the Live Server plugging in visual studio code.
+### Deployment
 
-## 👥 Authors <a name="authors">Edgard Soza</a>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+### `npm run build` fails to minify
 
-👤 **Edgard Soza**
-
-- GitHub: [@githubhandle](https://github.com/edgardsoza)
-- Twitter: [@twitterhandle](https://twitter.com/soza_edgard)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/edgard-soza-sobalvarro/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features">Completed portfolio</a>
-
-- A final and working buttons will be added in the future. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing">Portfolio Project</a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the page of the project at https://edgardsoza.github.io/
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-If you like this project give a like on the following page:
- https://edgardsoza.github.io/
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
-I would like to thank my family and everyone who helped on this project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
-- How do I use it?
-
-  - Feel free to download the code in the github repository given by using the main branch above and change it as you want it in another branch.
-
-- How long did it take this?
-
-  - It took like 2 hours, contact form was easier than expected. 
-
-- What is the project about?
-  - See my project information here: https://www.loom.com/share/43edb4a0a24747eebffd30bfbc436ca3.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 <a name="license">MIT License</a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
