@@ -6,3 +6,8 @@ toggle.addEventListener('click', () => weboptions.classList.toggle('active'));
 links.forEach((n) => n.addEventListener('click', () => {
   weboptions.classList.remove('active');
 }));
+
+function scrollToPortfolio() {
+  var portfolioSection = document.getElementById('portfolio');
+  portfolioSection.scrollIntoView({ behavior: 'smooth' });
+}
