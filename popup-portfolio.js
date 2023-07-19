@@ -30,25 +30,8 @@ const projects = [
     sourcelink: 'https://github.com/edgardsoza/math-magicians',
     livelink: 'https://math-magicians-edgardsoza.onrender.com/',
   },
-
   {
     id: 'popup-project-3',
-    closeBut: 'images/cancelicon.png',
-    closedesktop: 'images/closedesktop.png',
-    image: 'images/portfolioimg.png',
-    imageportfolio: 'images/imageportfolio.png',
-    title: 'Financial company information',
-    techs: ['Ruby on Rails', 'css', 'JavaScript'],
-    techsdesktop: ['Ruby on Rails', 'CSS', 'JavaScript', ],
-    content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the releaLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it 1960s with the release',
-    seelive: 'See Live',
-    seesource: 'See Source',
-    sourcelink: 'https://github.com/edgardsoza/stocks-react-capstone-project',
-    livelink: 'https://warm-clafoutis-f8deb6.netlify.app/',
-  },
-
-  {
-    id: 'popup-project-4',
     closeBut: 'images/cancelicon.png',
     closedesktop: 'images/closedesktop.png',
     image: 'images/space_traveler_react.JPG',
@@ -64,7 +47,7 @@ const projects = [
   },
 
   {
-    id: 'popup-project-5',
+    id: 'popup-project-4',
     closeBut: 'images/cancelicon.png',
     closedesktop: 'images/closedesktop.png',
     image: 'images/stocks_react_redux.JPG',
@@ -80,7 +63,7 @@ const projects = [
   },
 
   {
-    id: 'popup-project-6',
+    id: 'popup-project-5',
     closeBut: 'images/cancelicon.png',
     closedesktop: 'images/closedesktop.png',
     image: 'images/personal-billing-ruby-app.JPG',
