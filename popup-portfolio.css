@@ -231,7 +231,7 @@
   .buttons {
     display: flex;
     flex-direction: row;
-    justify-content: right;
+    justify-content: center;
     padding-top: 0.2rem;
     width: 100%;
     gap: 1rem;
